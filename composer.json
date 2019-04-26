@@ -1,0 +1,12 @@
+{
+  "name": "pigmentab/woocommerce-subscriptions",
+  "type": "woocommerce-subscription",
+  "description": "WooCommerce Subscription Premium Plugin",
+  "license": "GPLv3",
+  "homepage": "https://github.com/pigmentab/woocommerce-subscriptions",
+  "support": {
+    "issues": "https://github.com/pigmentab/woocommerce-subscriptions/issues",
+    "source": "https://github.com/pigmentab/woocommerce-subscriptions"
+  },
+  "require": {}
+}
